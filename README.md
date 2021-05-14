@@ -1,3 +1,6 @@
+Manjaro linux 需要修改`.h`文件中的 `#define FFI_LIB "libSDL2.so"`
+
+
 # Awesome PHP FFI
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](http://gabrielrcouto.mit-license.org/)
