@@ -1,4 +1,4 @@
-Manjaro linux 需要修改`.h`文件中的 `#define FFI_LIB "libSDL2.so"`
+Manjaro linux 需要修改`.h`文件中的FFI_LIB为具体的动态库文件位置，比如 `#define FFI_LIB "/usr/lib/libSDL2.so"`
 
 
 # Awesome PHP FFI
